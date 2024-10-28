@@ -37,8 +37,15 @@ def quitar_pais():
     else:
         print("⛔️ " + pais_a_eliminar + " no se encuentra en la lista.")
 
+def ordenar_paises():
+    paises.sort()
+    paises.reverse()
+    print(str(paises))
+
+
 # Ejemplo de uso
 listar_paises()
+ordenar_paises()
 
 # Agregar un país
 agregar_pais()  # Solicita el país a agregar
