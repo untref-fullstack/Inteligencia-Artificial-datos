@@ -4,12 +4,13 @@ from tabulate import tabulate
 # Lista inicial de países
 paises = ['Argentina', 'Venezuela', 'Uruguay', 'Chile', 'Paraguay']
 
+
 def listar_paises():
     tabla = [[idx + 1, paises] for idx, paises in enumerate(paises)]
 
     print("")
     print("Lista de países:")
-    print(tabulate(tabla, headers=["Id", "Países"], tablefmt="github"))
+    print(tabulate(tabla, headers=["Id", "Países"])) # , tablefmt="github")
     print("")
 
 def normalizar_pais(pais):
@@ -49,7 +50,7 @@ def ordenar_paises():
     # paises.reverse()
     print(str(paises))
 
-listar_paises()
+listar_lenguajes()
 
 # # ordenar_paises()
 

@@ -6,7 +6,9 @@ def listar_paises():
     print(str(paises))
 
 def normalizar_pais(pais):
-    return pais.strip().capitalize()
+    pais = pais.strip()
+    pais = pais.capitalize()
+    return pais
 
 def agregar_pais():
     nuevo_pais = input("🌎 Ingresa el nuevo país: ")
