@@ -80,4 +80,11 @@ print(list(pares))  # Salida: [2, 4, 6]
 
 
 ## ejemplo con reduce()
+from functools import reduce
 
+def suma(x, y):
+    return x + y
+
+numeros = [1, 2, 3, 4]
+
+resultado = reduce(suma, numeros)
