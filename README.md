@@ -1,2 +1,26 @@
 # Inteligencia-Artificial
 Repositorio de ejercicios y explicaciones de la Diplo Untref de I.A.
+
+## Python - Clase 01
+Fundamentos de Python. Historia, ámbitos de implementación, entorno de trabajo, estructura de un proyecto, variables, constantes, funciones nativas, cómo ejecutar una aplicación Python.
+
+## Python - Clase 02
+Operadores de comparación y asignación, operadores lógicos, condicionales, funciones simples.
+
+## Python - Clase 03
+Funciones con parámetros y retorno, métodos en variables, funciones nativas de Python, módulos Python, Controlar errores
+
+## Python - Clase 04
+Listas: qué son, tipos de elementos, acceso a elementos, métodos de operación comunes, Virtual Environment, PIP, Tabulate
+
+## Python - Clase 05
+El ciclo For, iterar sobre rangos, índices y elementos, condicional else (en For), pass, continue, While loop, Cadenas formateadas, Diccionarios, Listas de diccionarios, Tuplas (conversiones lista <> tupla)
+
+# Desde aquí, comienzan espacios de prácticas intensivos para los estudiantes, cada tantas clases estos espacios 
+
+## Python - Clase 06
+A revisar...
+
+## Python - Clase 07
+Listas anidadas: listas y sublistas, acceder a elementos de sublistas, ABM de elementos de sublistas, Funciones de orden superior: map(), filter(), reduce(), Ejemplos y prácticas
+
