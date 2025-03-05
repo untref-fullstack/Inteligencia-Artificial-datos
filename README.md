@@ -19,8 +19,12 @@ El ciclo For, iterar sobre rangos, índices y elementos, condicional else (en Fo
 # Desde aquí, comienzan espacios de prácticas intensivos para los estudiantes, cada tantas clases estos espacios 
 
 ## Python - Clase 06
-A revisar...
+Explicación de qué son los módulos. Cómo importar o exportarlos en proyectos Python.
+- Se explica cómo importar un módulo completo y también cómo exportar funciones de un módulo
+- Se propone un ejercicio integrador completo. Su resolución está en este repositorio
 
 ## Python - Clase 07
-Listas anidadas: listas y sublistas, acceder a elementos de sublistas, ABM de elementos de sublistas, Funciones de orden superior: map(), filter(), reduce(), Ejemplos y prácticas
+Listas anidadas: listas y sublistas, acceder a elementos de sublistas
+ABM de elementos de sublistas
+Funciones de orden superior: map(), filter(), reduce(), Ejemplos y prácticas
 
