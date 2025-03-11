@@ -1,0 +1,4 @@
+ID: 101, Nombre: Juan Pérez, Cargo: Analista, Salario: 85000
+ID: 102, Nombre: María Gómez, Cargo: Desarrolladora, Salario: 95000
+ID: 103, Nombre: Carlos López, Cargo: Gerente, Salario: 120000
+ID: 104, Nombre: Ana Martínez, Cargo: Diseñadora UX, Salario: 88000
