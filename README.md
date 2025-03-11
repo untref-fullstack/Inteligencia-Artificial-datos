@@ -28,3 +28,11 @@ Listas anidadas: listas y sublistas, acceder a elementos de sublistas
 ABM de elementos de sublistas
 Funciones de orden superior: map(), filter(), reduce(), Ejemplos y prácticas
 
+
+## Python - Clase 08
+Clases Constructoras - Sets - Manejo de archivos externos. Operaciones y ejercicios varios con estas funciones y estructuras de datos Python.
+
+## Python - Clase 09
+Manejo de archivos externos: open - read - write - with: Archivos JSON - archivos CSV. Qué es el módulo `json` y cómo convertir estructuras de datos a JSON, y viceversa.
+
+
