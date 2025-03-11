@@ -16,7 +16,9 @@ Listas: qué son, tipos de elementos, acceso a elementos, métodos de operación
 ## Python - Clase 05
 El ciclo For, iterar sobre rangos, índices y elementos, condicional else (en For), pass, continue, While loop, Cadenas formateadas, Diccionarios, Listas de diccionarios, Tuplas (conversiones lista <> tupla)
 
-# Desde aquí, comienzan espacios de prácticas intensivos para los estudiantes, cada tantas clases estos espacios 
+# Desde aquí, comienzan espacios de prácticas intensivos para los estudiantes
+## Para los contenidos de las clases 13 y 17, necesitamos sugerencias o consignas de los profes
+
 
 ## Python - Clase 06
 Explicación de qué son los módulos. Cómo importar o exportarlos en proyectos Python.
