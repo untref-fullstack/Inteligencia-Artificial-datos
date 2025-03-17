@@ -38,3 +38,7 @@ Clases Constructoras - Sets - Manejo de archivos externos. Operaciones y ejercic
 Manejo de archivos externos: open - read - write - with: Archivos JSON - archivos CSV. Qué es el módulo `json` y cómo convertir estructuras de datos a JSON, y viceversa.
 
 
+## Python - Clase 10
+Ejercicio de ingreso de fecha y su posterior validación con Python, para convertir el String en un `date` o `datetime`.
+
+Otro ejercicio con el cálculo de unidades de tiempo utilizando `timedelta`.
