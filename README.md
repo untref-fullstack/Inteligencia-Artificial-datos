@@ -42,3 +42,9 @@ Manejo de archivos externos: open - read - write - with: Archivos JSON - archivo
 Ejercicio de ingreso de fecha y su posterior validación con Python, para convertir el String en un `date` o `datetime`.
 
 Otro ejercicio con el cálculo de unidades de tiempo utilizando `timedelta`.
+
+
+## Python - Clase 11
+Python + MySQL: conexión a MySQL desde Python - Integración de un archivo `.env`. Uso de SELECT y UPDATE - ejercitación integrando tabulate.
+
+Profe(s): tengan en cuenta que el repositorio no tiene los archivos .ENV, ya que los deben crear y configurar de acuerdo a sus MySQL.
