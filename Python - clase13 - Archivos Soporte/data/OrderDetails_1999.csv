@@ -1,0 +1,4 @@
+OrderID,ProductID,UnitPrice,Quantity,Discount
+11103,11,14.0,12,0.0
+11103,42,9.8,10,0.05
+11104,14,18.6,9,0.0

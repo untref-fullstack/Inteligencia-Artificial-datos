@@ -1,0 +1,26 @@
+[
+	{
+		"idProducto" : 6,
+		"nombreProducto" : "HP Spectre x360",
+		"importe" : 1399.99,
+		"idCategoria" : 3
+	},
+	{
+		"idProducto" : 7,
+		"nombreProducto" : "iPad Air 2022",
+		"importe" : 599.99,
+		"idCategoria" : 4
+	},
+	{
+		"idProducto" : 8,
+		"nombreProducto" : "Samsung Galaxy Tab S7",
+		"importe" : 649.99,
+		"idCategoria" : 4
+	},
+	{
+		"idProducto" : 9,
+		"nombreProducto" : "Sony WH-1000XM4",
+		"importe" : 348.00,
+		"idCategoria" : 5
+	}
+]
