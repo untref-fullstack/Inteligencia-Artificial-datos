@@ -1,0 +1,4 @@
+pip install beautifulsoup4 requests
+
+Etiqueta de resultados en la sección News de google.com:
+https://www.google.com/search?sca_esv=0181e9464b13fa58&q=The+Ramones&tbm=nws
