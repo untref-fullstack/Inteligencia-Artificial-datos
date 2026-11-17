@@ -50,4 +50,4 @@ Python + MySQL: conexión a MySQL desde Python - Integración de un archivo `.en
 Profe(s): tengan en cuenta que el repositorio no tiene los archivos .ENV, ya que los deben crear y configurar de acuerdo a sus MySQL.
 
 ## Python - Clase 14
-BeautyfulSoup: scraping con Python. Se puede usar como ejemplo la siguiente web creada para tal fin: (https://untref-fullstack.github.io/jobpositions/)[https://untref-fullstack.github.io/jobpositions/]
+BeautyfulSoup: scraping con Python. Se puede usar como ejemplo la siguiente web creada para tal fin: [https://untref-fullstack.github.io/jobpositions/](https://untref-fullstack.github.io/jobpositions/)
