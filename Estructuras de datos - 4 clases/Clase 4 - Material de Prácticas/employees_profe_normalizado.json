@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "nombre": "Joe MacMillan",
+        "anioIngreso": 1983,
+        "fundador": true,
+        "perfilProfesional": {
+            "cargoPrincipal": "Ejecutivo y visionario tecnológico",
+            "roles": []
+        },
+        "estudios": {
+            "secundario": "Phillips Exeter Academy",
+            "universitario": "Licenciatura en Negocios y Marketing - Universidad de Boston"
+        },
+        "lenguajes": []
+    },
+    {
+        "id": 2,
+        "nombre": "Gordon Clark",
+        "anioIngreso": 1984,
+        "fundador": true,
+        "perfilProfesional": {
+            "cargoPrincipal": "Ingeniero de hardware",
+            "roles": []
+        },
+        "estudios": {
+            "secundario": "Cardinal Newman High School",
+            "universitario": "Ingeniería Eléctrica - University of Texas at Austin"
+        },
+        "lenguajes": ["Assembly", "C"]
+    },
+    {
+        "id": 3,
+        "nombre": "Cameron Howe",
+        "anioIngreso": 1984,
+        "fundador": true,
+        "perfilProfesional": {
+            "cargoPrincipal": "Programadora y desarrolladora de software",
+            "roles": []
+        },
+        "estudios": {
+            "secundario": "Westlake High School",
+            "universitario": "Ciencias de la Computación (incompleto) - UC Berkeley"
+        },
+        "lenguajes": ["C", "Assembly", "BASIC"]
+    },
+    {
+        "id": 4,
+        "nombre": "Donna Clark",
+        "anioIngreso": 1984,
+        "fundador": true,
+        "perfilProfesional": {
+            "cargoPrincipal": "Ingeniera de sistemas y ejecutiva",
+            "roles": []
+        },
+        "estudios": {
+            "secundario": "Plano Senior High School",
+            "universitario": "Ingeniería Informática - Rice University"
+        },
+        "lenguajes": ["COBOL", "FORTRAN", "Pascal"]
+    },
+    {
+        "id": 5,
+        "nombre": "John Bosworth",
+        "anioIngreso": 1980,
+        "fundador": false,
+        "perfilProfesional": {
+            "cargoPrincipal": "Director de operaciones",
+            "roles": []
+        },
+        "estudios": {
+            "secundario": "Irving High School",
+            "universitario": "Administración de Empresas - Southern Methodist University"
+        },
+        "lenguajes": []
+    },
+    {
+        "id": 6,
+        "nombre": "Nathan Cardiff",
+        "anioIngreso": 1965,
+        "fundador": true,
+        "perfilProfesional": {
+            "cargoPrincipal": "Director ejecutivo de empresa tecnológica",
+            "roles": [
+                "Accountant Leader",
+                "Project Manager",
+                "Product Owner",
+                "Director",
+                "Vice-Director"
+            ]
+        },
+        "estudios": {
+            "secundario": "Highland Park High School",
+            "universitario": "MBA - Wharton School"
+        },
+        "lenguajes": []
+    },
+    {
+        "id": 7,
+        "nombre": "Diane Gould",
+        "anioIngreso": 1979,
+        "fundador": false,
+        "perfilProfesional": {
+            "cargoPrincipal": "Inversionista de capital de riesgo",
+            "roles": []
+        },
+        "estudios": {
+            "secundario": "Stuyvesant High School",
+            "universitario": "Economía - Stanford University"
+        },
+        "lenguajes": []
+    }
+]

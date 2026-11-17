@@ -1,0 +1,541 @@
+<DATA>
+
+	<ROW>
+		<ProductID>1</ProductID>
+		<ProductName>Chai</ProductName>
+		<SupplierName>Exotic Liquids</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>2</ProductID>
+		<ProductName>Chang</ProductName>
+		<SupplierName>Exotic Liquids</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>24</ProductID>
+		<ProductName>Guaraná Fantástica</ProductName>
+		<SupplierName>Refrescos Americanas LTDA</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>34</ProductID>
+		<ProductName>Sasquatch Ale</ProductName>
+		<SupplierName>Bigfoot Breweries</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>35</ProductID>
+		<ProductName>Steeleye Stout</ProductName>
+		<SupplierName>Bigfoot Breweries</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>38</ProductID>
+		<ProductName>C�te de Blaye</ProductName>
+		<SupplierName>Aux joyeux eccl�siastiques</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>39</ProductID>
+		<ProductName>Chartreuse verte</ProductName>
+		<SupplierName>Aux joyeux eccl�siastiques</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>43</ProductID>
+		<ProductName>Ipoh Coffee</ProductName>
+		<SupplierName>Leka Trading</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>67</ProductID>
+		<ProductName>Laughing Lumberjack Lager</ProductName>
+		<SupplierName>Bigfoot Breweries</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>70</ProductID>
+		<ProductName>Outback Lager</ProductName>
+		<SupplierName>Pavlova, Ltd.</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>75</ProductID>
+		<ProductName>Rh�nbr�u Klosterbier</ProductName>
+		<SupplierName>Plutzer Lebensmittelgro�m�rkte AG</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>76</ProductID>
+		<ProductName>Lakkalik��ri</ProductName>
+		<SupplierName>Karkki Oy</SupplierName>
+		<CategoryName>Beverages</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>3</ProductID>
+		<ProductName>Aniseed Syrup</ProductName>
+		<SupplierName>Exotic Liquids</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>4</ProductID>
+		<ProductName>Chef Anton's Cajun Seasoning</ProductName>
+		<SupplierName>New Orleans Cajun Delights</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>5</ProductID>
+		<ProductName>Chef Anton's Gumbo Mix</ProductName>
+		<SupplierName>New Orleans Cajun Delights</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>6</ProductID>
+		<ProductName>Grandma's Boysenberry Spread</ProductName>
+		<SupplierName>Grandma Kelly's Homestead</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>8</ProductID>
+		<ProductName>Northwoods Cranberry Sauce</ProductName>
+		<SupplierName>Grandma Kelly's Homestead</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>15</ProductID>
+		<ProductName>Genen Shouyu</ProductName>
+		<SupplierName>Mayumi's</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>44</ProductID>
+		<ProductName>Gula Malacca</ProductName>
+		<SupplierName>Leka Trading</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>61</ProductID>
+		<ProductName>Sirop d'�rable</ProductName>
+		<SupplierName>For�ts d'�rables</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>63</ProductID>
+		<ProductName>Vegie-spread</ProductName>
+		<SupplierName>Pavlova, Ltd.</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>65</ProductID>
+		<ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+		<SupplierName>New Orleans Cajun Delights</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>66</ProductID>
+		<ProductName>Louisiana Hot Spiced Okra</ProductName>
+		<SupplierName>New Orleans Cajun Delights</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>77</ProductID>
+		<ProductName>Original Frankfurter gr�ne So�e</ProductName>
+		<SupplierName>Plutzer Lebensmittelgro�m�rkte AG</SupplierName>
+		<CategoryName>Condiments</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>16</ProductID>
+		<ProductName>Pavlova</ProductName>
+		<SupplierName>Pavlova, Ltd.</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>19</ProductID>
+		<ProductName>Teatime Chocolate Biscuits</ProductName>
+		<SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>20</ProductID>
+		<ProductName>Sir Rodney's Marmalade</ProductName>
+		<SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>21</ProductID>
+		<ProductName>Sir Rodney's Scones</ProductName>
+		<SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>25</ProductID>
+		<ProductName>NuNuCa Nu�-Nougat-Creme</ProductName>
+		<SupplierName>Heli S��waren GmbH & Co. KG</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>26</ProductID>
+		<ProductName>Gumb�r Gummib�rchen</ProductName>
+		<SupplierName>Heli S��waren GmbH & Co. KG</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>27</ProductID>
+		<ProductName>Schoggi Schokolade</ProductName>
+		<SupplierName>Heli S��waren GmbH & Co. KG</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>47</ProductID>
+		<ProductName>Zaanse koeken</ProductName>
+		<SupplierName>Zaanse Snoepfabriek</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>48</ProductID>
+		<ProductName>Chocolade</ProductName>
+		<SupplierName>Zaanse Snoepfabriek</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>49</ProductID>
+		<ProductName>Maxilaku</ProductName>
+		<SupplierName>Karkki Oy</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>50</ProductID>
+		<ProductName>Valkoinen suklaa</ProductName>
+		<SupplierName>Karkki Oy</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>62</ProductID>
+		<ProductName>Tarte au sucre</ProductName>
+		<SupplierName>For�ts d'�rables</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>68</ProductID>
+		<ProductName>Scottish Longbreads</ProductName>
+		<SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+		<CategoryName>Confections</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>11</ProductID>
+		<ProductName>Queso Cabrales</ProductName>
+		<SupplierName>Cooperativa de Quesos 'Las Cabras'</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>12</ProductID>
+		<ProductName>Queso Manchego La Pastora</ProductName>
+		<SupplierName>Cooperativa de Quesos 'Las Cabras'</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>31</ProductID>
+		<ProductName>Gorgonzola Telino</ProductName>
+		<SupplierName>Formaggi Fortini s.r.l.</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>32</ProductID>
+		<ProductName>Mascarpone Fabioli</ProductName>
+		<SupplierName>Formaggi Fortini s.r.l.</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>33</ProductID>
+		<ProductName>Geitost</ProductName>
+		<SupplierName>Norske Meierier</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>59</ProductID>
+		<ProductName>Raclette Courdavault</ProductName>
+		<SupplierName>Gai p�turage</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>60</ProductID>
+		<ProductName>Camembert Pierrot</ProductName>
+		<SupplierName>Gai p�turage</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>69</ProductID>
+		<ProductName>Gudbrandsdalsost</ProductName>
+		<SupplierName>Norske Meierier</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>71</ProductID>
+		<ProductName>Flotemysost</ProductName>
+		<SupplierName>Norske Meierier</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>72</ProductID>
+		<ProductName>Mozzarella di Giovanni</ProductName>
+		<SupplierName>Formaggi Fortini s.r.l.</SupplierName>
+		<CategoryName>Dairy Products</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>22</ProductID>
+		<ProductName>Gustaf's Kn�ckebr�d</ProductName>
+		<SupplierName>PB Kn�ckebr�d AB</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>23</ProductID>
+		<ProductName>Tunnbr�d</ProductName>
+		<SupplierName>PB Kn�ckebr�d AB</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>42</ProductID>
+		<ProductName>Singaporean Hokkien Fried Mee</ProductName>
+		<SupplierName>Leka Trading</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>52</ProductID>
+		<ProductName>Filo Mix</ProductName>
+		<SupplierName>G'day, Mate</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>56</ProductID>
+		<ProductName>Gnocchi di nonna Alice</ProductName>
+		<SupplierName>Pasta Buttini s.r.l.</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>57</ProductID>
+		<ProductName>Ravioli Angelo</ProductName>
+		<SupplierName>Pasta Buttini s.r.l.</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>64</ProductID>
+		<ProductName>Wimmers gute Semmelkn�del</ProductName>
+		<SupplierName>Plutzer Lebensmittelgro�m�rkte AG</SupplierName>
+		<CategoryName>Grains/Cereals</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>9</ProductID>
+		<ProductName>Mishi Kobe Niku</ProductName>
+		<SupplierName>Tokyo Traders</SupplierName>
+		<CategoryName>Meat/Poultry</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>17</ProductID>
+		<ProductName>Alice Mutton</ProductName>
+		<SupplierName>Pavlova, Ltd.</SupplierName>
+		<CategoryName>Meat/Poultry</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>29</ProductID>
+		<ProductName>Th�ringer Rostbratwurst</ProductName>
+		<SupplierName>Plutzer Lebensmittelgro�m�rkte AG</SupplierName>
+		<CategoryName>Meat/Poultry</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>53</ProductID>
+		<ProductName>Perth Pasties</ProductName>
+		<SupplierName>G'day, Mate</SupplierName>
+		<CategoryName>Meat/Poultry</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>54</ProductID>
+		<ProductName>Tourti�re</ProductName>
+		<SupplierName>Ma Maison</SupplierName>
+		<CategoryName>Meat/Poultry</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>55</ProductID>
+		<ProductName>P�t� chinois</ProductName>
+		<SupplierName>Ma Maison</SupplierName>
+		<CategoryName>Meat/Poultry</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>7</ProductID>
+		<ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+		<SupplierName>Grandma Kelly's Homestead</SupplierName>
+		<CategoryName>Produce</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>14</ProductID>
+		<ProductName>Tofu</ProductName>
+		<SupplierName>Mayumi's</SupplierName>
+		<CategoryName>Produce</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>28</ProductID>
+		<ProductName>R�ssle Sauerkraut</ProductName>
+		<SupplierName>Plutzer Lebensmittelgro�m�rkte AG</SupplierName>
+		<CategoryName>Produce</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>51</ProductID>
+		<ProductName>Manjimup Dried Apples</ProductName>
+		<SupplierName>G'day, Mate</SupplierName>
+		<CategoryName>Produce</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>74</ProductID>
+		<ProductName>Longlife Tofu</ProductName>
+		<SupplierName>Tokyo Traders</SupplierName>
+		<CategoryName>Produce</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>10</ProductID>
+		<ProductName>Ikura</ProductName>
+		<SupplierName>Tokyo Traders</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>13</ProductID>
+		<ProductName>Konbu</ProductName>
+		<SupplierName>Mayumi's</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>18</ProductID>
+		<ProductName>Carnarvon Tigers</ProductName>
+		<SupplierName>Pavlova, Ltd.</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>30</ProductID>
+		<ProductName>Nord-Ost Matjeshering</ProductName>
+		<SupplierName>Nord-Ost-Fisch Handelsgesellschaft mbH</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>36</ProductID>
+		<ProductName>Inlagd Sill</ProductName>
+		<SupplierName>Svensk Sj�f�da AB</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>37</ProductID>
+		<ProductName>Gravad lax</ProductName>
+		<SupplierName>Svensk Sj�f�da AB</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>40</ProductID>
+		<ProductName>Boston Crab Meat</ProductName>
+		<SupplierName>New England Seafood Cannery</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>41</ProductID>
+		<ProductName>Jack's New England Clam Chowder</ProductName>
+		<SupplierName>New England Seafood Cannery</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>45</ProductID>
+		<ProductName>Rogede sild</ProductName>
+		<SupplierName>Lyngbysild</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>46</ProductID>
+		<ProductName>Spegesild</ProductName>
+		<SupplierName>Lyngbysild</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>58</ProductID>
+		<ProductName>Escargots de Bourgogne</ProductName>
+		<SupplierName>Escargots Nouveaux</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+
+	<ROW>
+		<ProductID>73</ProductID>
+		<ProductName>R�d Kaviar</ProductName>
+		<SupplierName>Svensk Sj�f�da AB</SupplierName>
+		<CategoryName>Seafood</CategoryName>
+	</ROW>
+</DATA>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<estudiantes>
+    <estudiante>
+        <apellido>García</apellido>
+        <nombre>Juan</nombre>
+        <email>juan.garcia@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Martínez</apellido>
+        <nombre>Elena</nombre>
+        <email>elena.martinez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>López</apellido>
+        <nombre>Marcos</nombre>
+        <email>marcos.lopez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Rodríguez</apellido>
+        <nombre>Lucía</nombre>
+        <email>lucia.rodriguez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Sánchez</apellido>
+        <nombre>Ricardo</nombre>
+        <email>ricardo.sanchez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Pérez</apellido>
+        <nombre>Sofía</nombre>
+        <email>sofia.perez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Gómez</apellido>
+        <nombre>Facundo</nombre>
+        <email>facundo.gomez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Fernández</apellido>
+        <nombre>Martina</nombre>
+        <email>martina.fernandez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Álvarez</apellido>
+        <nombre>Tomás</nombre>
+        <email>tomas.alvarez@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+    <estudiante>
+        <apellido>Díaz</apellido>
+        <nombre>Valeria</nombre>
+        <email>valeria.diaz@email.com</email>
+        <curso>Análisis de Datos</curso>
+    </estudiante>
+</estudiantes>

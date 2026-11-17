@@ -1,0 +1,78 @@
+ProductID	ProductName	SupplierName	CategoryName
+1	Chai	Exotic Liquids	Beverages
+2	Chang	Exotic Liquids	Beverages
+24	Guaraná Fantástica	Refrescos Americanas LTDA	Beverages
+34	Sasquatch Ale	Bigfoot Breweries	Beverages
+35	Steeleye Stout	Bigfoot Breweries	Beverages
+38	Côte de Blaye	Aux joyeux ecclêsiastiques	Beverages
+39	Chartreuse verte	Aux joyeux ecclêsiastiques	Beverages
+43	Ipoh Coffee	Leka Trading	Beverages
+67	Laughing Lumberjack Lager	Bigfoot Breweries	Beverages
+70	Outback Lager	Pavlova, Ltd.	Beverages
+75	Rh�nbr�u Klosterbier	Plutzer Lebensmittelgro�m�rkte AG	Beverages
+76	Lakkalik��ri	Karkki Oy	Beverages
+3	Aniseed Syrup	Exotic Liquids	Condiments
+4	Chef Anton's Cajun Seasoning	New Orleans Cajun Delights	Condiments
+5	Chef Anton's Gumbo Mix	New Orleans Cajun Delights	Condiments
+6	Grandma's Boysenberry Spread	Grandma Kelly's Homestead	Condiments
+8	Northwoods Cranberry Sauce	Grandma Kelly's Homestead	Condiments
+15	Genen Shouyu	Mayumi's	Condiments
+44	Gula Malacca	Leka Trading	Condiments
+61	Sirop d'�rable	For�ts d'�rables	Condiments
+63	Vegie-spread	Pavlova, Ltd.	Condiments
+65	Louisiana Fiery Hot Pepper Sauce	New Orleans Cajun Delights	Condiments
+66	Louisiana Hot Spiced Okra	New Orleans Cajun Delights	Condiments
+77	Original Frankfurter gr�ne So�e	Plutzer Lebensmittelgro�m�rkte AG	Condiments
+16	Pavlova	Pavlova, Ltd.	Confections
+19	Teatime Chocolate Biscuits	Specialty Biscuits, Ltd.	Confections
+20	Sir Rodney's Marmalade	Specialty Biscuits, Ltd.	Confections
+21	Sir Rodney's Scones	Specialty Biscuits, Ltd.	Confections
+25	NuNuCa Nu�-Nougat-Creme	Heli S��waren GmbH & Co. KG	Confections
+26	Gumb�r Gummib�rchen	Heli S��waren GmbH & Co. KG	Confections
+27	Schoggi Schokolade	Heli S��waren GmbH & Co. KG	Confections
+47	Zaanse koeken	Zaanse Snoepfabriek	Confections
+48	Chocolade	Zaanse Snoepfabriek	Confections
+49	Maxilaku	Karkki Oy	Confections
+50	Valkoinen suklaa	Karkki Oy	Confections
+62	Tarte au sucre	For�ts d'�rables	Confections
+68	Scottish Longbreads	Specialty Biscuits, Ltd.	Confections
+11	Queso Cabrales	Cooperativa de Quesos 'Las Cabras'	Dairy Products
+12	Queso Manchego La Pastora	Cooperativa de Quesos 'Las Cabras'	Dairy Products
+31	Gorgonzola Telino	Formaggi Fortini s.r.l.	Dairy Products
+32	Mascarpone Fabioli	Formaggi Fortini s.r.l.	Dairy Products
+33	Geitost	Norske Meierier	Dairy Products
+59	Raclette Courdavault	Gai p�turage	Dairy Products
+60	Camembert Pierrot	Gai p�turage	Dairy Products
+69	Gudbrandsdalsost	Norske Meierier	Dairy Products
+71	Flotemysost	Norske Meierier	Dairy Products
+72	Mozzarella di Giovanni	Formaggi Fortini s.r.l.	Dairy Products
+22	Gustaf's Kn�ckebr�d	PB Kn�ckebr�d AB	Grains/Cereals
+23	Tunnbr�d	PB Kn�ckebr�d AB	Grains/Cereals
+42	Singaporean Hokkien Fried Mee	Leka Trading	Grains/Cereals
+52	Filo Mix	G'day, Mate	Grains/Cereals
+56	Gnocchi di nonna Alice	Pasta Buttini s.r.l.	Grains/Cereals
+57	Ravioli Angelo	Pasta Buttini s.r.l.	Grains/Cereals
+64	Wimmers gute Semmelkn�del	Plutzer Lebensmittelgro�m�rkte AG	Grains/Cereals
+9	Mishi Kobe Niku	Tokyo Traders	Meat/Poultry
+17	Alice Mutton	Pavlova, Ltd.	Meat/Poultry
+29	Th�ringer Rostbratwurst	Plutzer Lebensmittelgro�m�rkte AG	Meat/Poultry
+53	Perth Pasties	G'day, Mate	Meat/Poultry
+54	Tourti�re	Ma Maison	Meat/Poultry
+55	P�t� chinois	Ma Maison	Meat/Poultry
+7	Uncle Bob's Organic Dried Pears	Grandma Kelly's Homestead	Produce
+14	Tofu	Mayumi's	Produce
+28	R�ssle Sauerkraut	Plutzer Lebensmittelgro�m�rkte AG	Produce
+51	Manjimup Dried Apples	G'day, Mate	Produce
+74	Longlife Tofu	Tokyo Traders	Produce
+10	Ikura	Tokyo Traders	Seafood
+13	Konbu	Mayumi's	Seafood
+18	Carnarvon Tigers	Pavlova, Ltd.	Seafood
+30	Nord-Ost Matjeshering	Nord-Ost-Fisch Handelsgesellschaft mbH	Seafood
+36	Inlagd Sill	Svensk Sj�f�da AB	Seafood
+37	Gravad lax	Svensk Sj�f�da AB	Seafood
+40	Boston Crab Meat	New England Seafood Cannery	Seafood
+41	Jack's New England Clam Chowder	New England Seafood Cannery	Seafood
+45	Rogede sild	Lyngbysild	Seafood
+46	Spegesild	Lyngbysild	Seafood
+58	Escargots de Bourgogne	Escargots Nouveaux	Seafood
+73	R�d Kaviar	Svensk Sj�f�da AB	Seafood

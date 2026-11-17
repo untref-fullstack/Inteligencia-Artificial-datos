@@ -1,0 +1,26 @@
+nombre,apellido,dni,edad,genero,email,telefono,ciudad,pais,ocupacion
+Juan,Pérez,30123456,35,Masculino,juan.perez@email.com,1123456789,Buenos Aires,Argentina,Ingeniero
+María,Gómez,28987654,42,Femenino,maria.gomez@email.com,1134567890,Córdoba,Argentina,Contadora
+Carlos,Rodríguez,33456789,29,Masculino,carlos.rodriguez@email.com,1145678901,Rosario,Argentina,Diseñador
+Lucía,Fernández,31222333,31,Femenino,lucia.fernandez@email.com,1156789012,Mendoza,Argentina,Arquitecta
+Pedro,López,27654321,48,Masculino,pedro.lopez@email.com,1167890123,Salta,Argentina,Comerciante
+Ana,Martínez,34567890,26,Femenino,ana.martinez@email.com,1178901234,La Plata,Argentina,Estudiante
+Diego,Sánchez,29876543,39,Masculino,diego.sanchez@email.com,1189012345,Mar del Plata,Argentina,Analista
+Sofía,Ramírez,32123456,33,Femenino,sofia.ramirez@email.com,1190123456,Neuquén,Argentina,Psicóloga
+Martín,Torres,28765432,45,Masculino,martin.torres@email.com,1112345678,Santa Fe,Argentina,Profesor
+Valentina,Acosta,35678901,24,Femenino,valentina.acosta@email.com,1123456790,Tucumán,Argentina,Community Manager
+Jorge,Castro,26789012,52,Masculino,jorge.castro@email.com,1134567801,Buenos Aires,Argentina,Abogado
+Camila,Ortiz,33789012,28,Femenino,camila.ortiz@email.com,1145678012,San Juan,Argentina,Periodista
+Ricardo,Molina,25543210,57,Masculino,ricardo.molina@email.com,1156780123,San Luis,Argentina,Administrador
+Florencia,Silva,31890123,34,Femenino,florencia.silva@email.com,1167891234,Bahía Blanca,Argentina,Marketing
+Pablo,Núñez,29234567,41,Masculino,pablo.nunez@email.com,1178912345,Posadas,Argentina,Técnico
+Natalia,Herrera,32987654,30,Femenino,natalia.herrera@email.com,1189123456,Resistencia,Argentina,Recursos Humanos
+Gustavo,Ríos,27111222,49,Masculino,gustavo.rios@email.com,1191234567,Paraná,Argentina,Logística
+Carolina,Medina,34123498,27,Femenino,carolina.medina@email.com,1113456789,San Rafael,Argentina,Turismo
+Federico,Vega,30555111,36,Masculino,federico.vega@email.com,1124567891,Pilar,Argentina,Desarrollador
+Julieta,Ponce,35222111,23,Femenino,julieta.ponce@email.com,1135678912,Olavarría,Argentina,Estudiante
+Hernán,Arias,28444999,44,Masculino,hernan.arias@email.com,1146789123,Junín,Argentina,Supervisor
+Paula,Cabrera,31666777,32,Femenino,paula.cabrera@email.com,1157891235,San Martín,Argentina,Administrativa
+Sebastián,Flores,29999888,38,Masculino,sebastian.flores@email.com,1168912346,Quilmes,Argentina,Ventas
+Rocío,Navarro,34888999,25,Femenino,rocio.navarro@email.com,1179123457,Esquel,Argentina,Fotógrafa
+Andrés,Peralta,27333444,50,Masculino,andres.peralta@email.com,1181234568,Calafate,Argentina,Guía Turístico

@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "nombre": "Joe MacMillan",
+        "cargo": "Ejecutivo y visionario tecnológico",
+        "ingreso": 1983,
+        "fundador": true,
+        "estudios": {
+            "secundario": "Phillips Exeter Academy",
+            "universitario": "Licenciatura en Negocios y Marketing - Universidad de Boston"
+        },
+        "lenguajes": []
+    },
+    {
+        "id": 2,
+        "nombre": "Gordon Clark",
+        "cargo": "Ingeniero de hardware",
+        "ingreso": 1984,
+        "fundador": true,
+        "estudios": {
+            "secundario": "Cardinal Newman High School",
+            "universitario": "Ingeniería Eléctrica - University of Texas at Austin"
+        },
+        "lenguajes": [
+            "Assembly",
+            "C"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Cameron Howe",
+        "cargo": "Programadora y desarrolladora de software",
+        "ingreso": 1984,
+        "fundador": true,
+        "estudios": {
+            "secundario": "Westlake High School",
+            "universitario": "Ciencias de la Computación (incompleto) - UC Berkeley"
+        },
+        "lenguajes": [
+            "C",
+            "Assembly",
+            "BASIC"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Donna Clark",
+        "cargo": "Ingeniera de sistemas y ejecutiva",
+        "ingreso": 1984,
+        "fundador": true,
+        "estudios": {
+            "secundario": "Plano Senior High School",
+            "universitario": "Ingeniería Informática - Rice University"
+        },
+        "lenguajes": [
+            "COBOL",
+            "FORTRAN",
+            "Pascal"
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "John Bosworth",
+        "cargo": "Director de operaciones",
+        "ingreso": 1980,
+        "fundador": false,
+        "estudios": {
+            "secundario": "Irving High School",
+            "universitario": "Administración de Empresas - Southern Methodist University"
+        },
+        "lenguajes": []
+    },
+    {
+        "id": 6,
+        "nombre": "Nathan Cardiff",
+        "cargo": "Director ejecutivo de empresa tecnológica",
+        "ingreso": 1965,
+        "fundador": true,
+        "estudios": {
+            "secundario": "Highland Park High School",
+            "universitario": "MBA - Wharton School"
+        },
+        "positions": [
+            "Accountant Leader",
+            "Project Manager",
+            "Product Owner",
+            "Director",
+            "Vice-Director"
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Diane Gould",
+        "cargo": "Inversionista de capital de riesgo",
+        "ingreso": 1979,
+        "fundador": false,
+        "estudios": {
+            "secundario": "Stuyvesant High School",
+            "universitario": "Economía - Stanford University"
+        },
+        "lenguajes": []
+    },
+    {
+        "id": 8,
+        "nombre": "Haley Clark",
+        "cargo": "Programadora y analista de seguridad",
+        "ingreso": 1993,
+        "fundador": false,
+        "estudios": {
+            "secundario": "Mutual High School",
+            "universitario": "Ciencias de la Computación - University of California, San Diego"
+        },
+        "lenguajes": [
+            "C++",
+            "HTML",
+            "CSS1"
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Tom Rendon",
+        "cargo": "Programador de sistemas",
+        "ingreso": 1985,
+        "fundador": false,
+        "estudios": {
+            "secundario": "James Bowie High School",
+            "universitario": "Ingeniería de Software - Texas A&M University"
+        },
+        "lenguajes": [
+            "C",
+            "C++"
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Yo-Yo Engberk",
+        "cargo": "Desarrollador de software",
+        "ingreso": 1984,
+        "fundador": false,
+        "estudios": {
+            "secundario": "North Hollywood High School",
+            "universitario": "Ingeniería Informática - UCLA"
+        },
+        "lenguajes": [
+            "C",
+            "BASIC"
+        ]
+    }
+]
