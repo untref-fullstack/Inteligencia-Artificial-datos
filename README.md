@@ -44,7 +44,10 @@ Ejercicio de ingreso de fecha y su posterior validación con Python, para conver
 Otro ejercicio con el cálculo de unidades de tiempo utilizando `timedelta`.
 
 
-## Python - Clase 11
+## Python - Clase 11 / 12 / 13
 Python + MySQL: conexión a MySQL desde Python - Integración de un archivo `.env`. Uso de SELECT y UPDATE - ejercitación integrando tabulate.
 
 Profe(s): tengan en cuenta que el repositorio no tiene los archivos .ENV, ya que los deben crear y configurar de acuerdo a sus MySQL.
+
+## Python - Clase 14
+BeautyfulSoup: scraping con Python. Se puede usar como ejemplo la siguiente web creada para tal fin: (https://untref-fullstack.github.io/jobpositions/)[https://untref-fullstack.github.io/jobpositions/]
