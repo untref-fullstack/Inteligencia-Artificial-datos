@@ -1,6 +1,9 @@
 # Inteligencia-Artificial
 Repositorio de ejercicios y explicaciones de la Diplo Untref de I.A.
 
+## Estructura de datos - 4 clases
+Contenidos para usar en las 4 clases de fundamentos de estructuras de datos. Hay material de ejemplo para utilizar con XML, CSV, TSV, TXT y JSON. 
+
 ## Python - Clase 01
 Fundamentos de Python. Historia, ámbitos de implementación, entorno de trabajo, estructura de un proyecto, variables, constantes, funciones nativas, cómo ejecutar una aplicación Python.
 
